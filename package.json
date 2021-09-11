@@ -1,0 +1,23 @@
+{
+  "name": "luna_v2-voice",
+  "version": "1.0.0",
+  "description": "Luna's voice counterpart",
+  "main": "node Luna_v2-voice.js",
+  "scripts": {
+    "test": "node Luna_v2-voice.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vio-Eli/Luna_v2-voice.git"
+  },
+  "keywords": [
+    "luna",
+    "voice"
+  ],
+  "author": "Vio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vio-Eli/Luna_v2-voice/issues"
+  },
+  "homepage": "https://github.com/Vio-Eli/Luna_v2-voice#readme"
+}
