@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Vio-Eli/Luna_v2-voice/issues"
   },
-  "homepage": "https://github.com/Vio-Eli/Luna_v2-voice#readme"
+  "homepage": "https://github.com/Vio-Eli/Luna_v2-voice#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
 }
